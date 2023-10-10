@@ -2,3 +2,5 @@ site_name: Reply Docs
 theme:
   name: readthedocs
   highlightjs: true
+extra:
+  hide_footer: true
