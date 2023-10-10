@@ -5,6 +5,3 @@ theme:
 extra:
   hide_footer: true
 repo_url: https://github.com/squidfunk/mkdocs-material
-theme:
-  icon:
-    repo: fontawesome/brands/git-alt
