@@ -2,10 +2,6 @@ site_name: Reply Docs
 theme:
   name: readthedocs
   highlightjs: true
-  features:
-     - repo:
-        url: https://github.com/squidfunk/mkdocs-material
-        view_only: true
 extra:
   hide_footer: true
 
