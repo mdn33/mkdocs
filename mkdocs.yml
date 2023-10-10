@@ -4,4 +4,6 @@ theme:
   highlightjs: true
 extra:
   hide_footer: true
-
+plugins:
+- search
+- mkdocstrings
