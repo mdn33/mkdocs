@@ -6,4 +6,8 @@ extra:
   hide_footer: true
 plugins:
 - search
-- mkdocstrings
+- mkdocstrings:
+    default_handler: python
+      handlers:
+        python:
+          paths: [src]
