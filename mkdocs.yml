@@ -5,6 +5,7 @@ theme:
 extra:
   hide_footer: true
 plugins:
+- search
 - mkdocstrings:
     enabled: !ENV [ENABLE_MKDOCSTRINGS, true]
     custom_templates: templates
