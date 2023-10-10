@@ -3,7 +3,9 @@ theme:
   name: readthedocs
   highlightjs: true
   features:
-    - content.action.view
+     - repo:
+        url: https://github.com/squidfunk/mkdocs-material
+        view_only: true
 extra:
   hide_footer: true
-repo_url: https://github.com/squidfunk/mkdocs-material
+
