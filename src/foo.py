@@ -3,5 +3,6 @@ def bar():
 
     # Tips
 
-    - Stay hydrated.
+    - Input: None
+    - Output: None.
     """

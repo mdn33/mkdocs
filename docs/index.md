@@ -18,4 +18,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Marco Nepi
 
+
+#### Funzioni
 ::: src.foo.bar
+    handler: python
