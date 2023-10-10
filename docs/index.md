@@ -18,4 +18,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Marco Nepi
 
-::: foo.bar
+::: src.foo.bar
