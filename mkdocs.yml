@@ -1,7 +1,6 @@
 site_name: Reply Docs
 theme:
-  name: readthedocs
-  highlightjs: true
+  name: material
 extra:
   hide_footer: true
 plugins:
