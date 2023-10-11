@@ -23,3 +23,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ::: src.foo.bar
     handler: python
+
+
+::: src.foo.bar

@@ -8,3 +8,14 @@ def bar(stringa):
     """
     
     print(stringa)
+    
+    
+def bar2(stringa):
+
+    """Hello, world!
+    
+    - Input: None
+    - Output: None.
+    """
+    
+    print(stringa)
