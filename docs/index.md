@@ -18,11 +18,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Marco Nepi
 
-
-#### Funzioni
+    bla bla bla
 
 ::: src.foo.bar
     handler: python
 
 
-::: src.foo.bar
+::: src.foo.bar2
