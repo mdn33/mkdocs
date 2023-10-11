@@ -25,3 +25,14 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
 ::: src.foo.bar2
+
+# Documentation for `MyClass`
+
+::: src.foo.MyClass
+    handler: python
+    options:
+      members:
+        - method_a
+        - method_b
+      show_root_heading: false
+      show_source: false
