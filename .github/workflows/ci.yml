@@ -21,6 +21,12 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - name: Checkout Repository with Submodules
+          uses: actions/checkout@v2
+          with:
+            submodules: 'recursive'
+      - name: Initialize and Update Submodules
+          run: git submodule update --init --recursive
       - run: pip install mkdocs-material
       - run: pip install 'mkdocstrings[crystal,python]'
       - run: ls
