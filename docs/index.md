@@ -23,7 +23,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ::: src.foo.bar
     handler: python
 
-
 ::: src.foo.bar2
 
 # Documentation for `MyClass`
@@ -36,3 +35,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         - method_b
       show_root_heading: false
       show_source: false
+
+
+::: mkdocs_local.test.stampa
