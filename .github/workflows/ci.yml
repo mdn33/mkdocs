@@ -24,4 +24,5 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install 'mkdocstrings[crystal,python]'
       - run: ls
+      - run: ls ./mkdocs_local
       - run: mkdocs gh-deploy --force
