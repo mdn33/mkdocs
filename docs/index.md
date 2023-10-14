@@ -37,4 +37,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
       show_source: false
 
 
-::: mkdocs_local.test.bar
+::: src.test.bar2
