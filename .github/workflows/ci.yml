@@ -23,6 +23,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: cp mkdocs_local mkdocs_local2 -r
       - run: pip install mkdocs-material
       - run: pip install 'mkdocstrings[crystal,python]'
       - run: ls
