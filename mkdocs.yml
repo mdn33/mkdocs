@@ -12,4 +12,9 @@ plugins:
     handlers:
       python:
         options:
-          show_source: true
+          show_source: true 
+pages:
+  - Lecture:
+    - 'week 1':
+      - Summary: 'docs/index.md'
+      - 'section 1': 'mkdocs_local/docs/test.md'
