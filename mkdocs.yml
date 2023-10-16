@@ -13,8 +13,3 @@ plugins:
       python:
         options:
           show_source: true 
-          
-nav:
-  - Section:
-    - mkdocs_local/docs/index.md 
-    - Page 1: mkdocs_local/docs/test.md
