@@ -13,8 +13,8 @@ plugins:
       python:
         options:
           show_source: true 
+          
 nav:
-  - Lecture:
-    - 'week 1':
-      - Summary: 'docs/index.md'
-      - 'section 1': 'mkdocs_local/docs/test.md'
+  - Section:
+    - mkdocs_local/docs/index.md 
+    - Page 1: mkdocs_local/docs/test.md
